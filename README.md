@@ -1,5 +1,3 @@
-# Jogo Da Velha
- Jogo da velha feito em Visualg
+Curso de Git
 
-Jogo feito no final do curso de lógica de programação
-do professor Gustavo Guanabara
+Curso de git e github do professor Gustavo Guanabara
